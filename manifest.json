@@ -1,0 +1,13 @@
+{
+  "name": "onethingpcs",
+  "version": "0.1",
+  "description": "onethingpcs",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "tabs",
+    "contextMenus"
+  ]
+}
